@@ -1,8 +1,6 @@
 ### Olá! Eu sou Leonardo Amorim 👋
 
 - 🔭 atualmente estou trabalhando como freelancer
-- 🌱 Estudando Javascript 
-- 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
